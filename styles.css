@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  color: black;
+  background-color: white;
+  text-align: center;
+}
+h1, h2 {
+  font-weight: bold;
+  font-size: 1.5rem;
+  text-align: center;
+}
